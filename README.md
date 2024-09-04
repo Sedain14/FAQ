@@ -1,0 +1,2 @@
+# FAQ
+Frontend mentor Challenge
